@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SolarShare, a P2P renewable energy-sharing platform<br>🌱 I’m currently learning Web3, JavaScript<br>💬 Ask me about anything, I will let you know what I know<br>⚡ Fun fact: Learning is never ending
+🔭 I’m currently working on SolarShare, a P2P renewable energy-sharing platform<br>🌱 I’m currently delving into Web3 and Decentralized Apps<br>💬 Ask me about anything, I will let you know what I know<br>⚡ Fun fact: Learning is never ending
 
 
 ## 🌐 Socials:
